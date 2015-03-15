@@ -1,0 +1,12 @@
+Movie Trailer Website
+by Matt Ellis
+2015-03-14
+
+Summary
+Project to display information about movies. Information includes title, poster image, link to video of movie trailer, year, and length in minutes.
+
+Requirements
+Python must be installed and configured on the computer to run this project.
+
+Usage
+To view the sample simply run the entertainment.py file. You will see the six sample movies included.
